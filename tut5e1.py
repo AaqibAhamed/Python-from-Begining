@@ -1,4 +1,4 @@
-"""num=int(input("Enter The Number to print the table :"))
+num=int(input("Enter The Number to print the table :"))
 
 for x in range(1,11):
     print(num," x ",x," = ", num*x)
